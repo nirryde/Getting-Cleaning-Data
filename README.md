@@ -3,10 +3,9 @@
 title: "README"
 author: "Nir Basanchik"
 date: "December 26, 2015"
-output: html_document
 ---
 
-*The repo includes two files:* 
+**Files included in this repo:** 
 
 1. run_analysis.R - a script which reads in the data for the assignment and tidys the data (for more info see CodeBook.Rmd).
 2. CodeBook.Rmd - An R-markdown file which explains how the script run_analysis.R works and       describes the data set used by run_analysis.R 
