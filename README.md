@@ -1,9 +1,7 @@
-# Getting-Cleaning-Data
----
-title: "README"
+# Getting-Cleaning-Data README
+
 author: "Nir Basanchik"
 date: "December 26, 2015"
----
 
 **Files included in this repo:** 
 
